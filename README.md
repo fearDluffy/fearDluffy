@@ -41,6 +41,8 @@ Core CS:
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fearDluffy&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" /> </p>
 🐍 Contribution Graph
 <p align="center"> <img src="https://github.com/fearDluffy/fearDluffy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p>
+![Snake animation](https://github.com/fearDluffy/fearDluffy/blob/output/github-contribution-grid-snake.svg)
+
 🎯 Career Goals
 
 🔹 Land a developer role where I can apply problem-solving & development skills.
