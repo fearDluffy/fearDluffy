@@ -1,13 +1,13 @@
 👋 Hi, I'm Ankit Kumar
 
-💻 B.Tech CSE Student (2022–2026) | 🚀 Aspiring Full-Stack Developer | 🌍 Dream: Global Recognition
+💻 B.Tech CSE Student (2022–2026) | 🚀 Aspiring Full-Stack Developer & AI/ML Engineer | 📊 Data Analytics Enthusiast | 🌍 Dream: Global Recognition
 
 🧑‍💼 About Me
 
 ✨ Computer Science Engineer in the making, with strong foundations in DSA, Java, Python, and Web Dev.
-⚡ I enjoy creating responsive websites, interactive apps, and problem-solving solutions.
-🌱 Currently exploring AI, Cloud, and Full-Stack Development.
-📌 Open to internships / job opportunities in software development.
+⚡ I enjoy creating responsive websites, interactive apps, data-driven insights, and AI/ML projects.
+🌱 Currently exploring Artificial Intelligence, Machine Learning, Data Analytics, Cloud, and Full-Stack Development.
+📌 Open to internships / job opportunities in Software Development, Data Analytics, and AI/ML Engineering.
 
 🔧 Skills & Tools
 
@@ -16,6 +16,9 @@ C++ | Java | Python | JavaScript
 
 Web Development:
 HTML | CSS | React | Firebase
+
+Data Analytics / AI/ML:
+NumPy | Pandas | Matplotlib | Scikit-Learn
 
 Tools & Platforms:
 GitHub | VS Code | Postman | Figma
@@ -40,12 +43,10 @@ Core CS:
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fearDluffy&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" /> </p>
 🐍 Contribution Graph
-<p align="center"> <img src="https://github.com/fearDluffy/fearDluffy/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p>
-![Snake animation](https://github.com/fearDluffy/fearDluffy/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fearDluffy/fearDluffy/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fearDluffy/fearDluffy/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/fearDluffy/fearDluffy/output/github-contribution-grid-snake.svg" /> </picture> </p>
 🎯 Career Goals
 
-🔹 Land a developer role where I can apply problem-solving & development skills.
+🔹 Land a developer / AI/ML engineer role where I can apply problem-solving & analytics skills.
 🔹 Build impactful projects that help people in real life.
 🔹 Contribute to open-source projects & communities.
 🔹 Be recognized as a global innovator in tech.
@@ -56,8 +57,8 @@ Core CS:
 
 🌐 Portfolio: feardluffy.github.io/Portfolio-2.0
 
-💼 LinkedIn: linkedin.com/in/your-link
+💼 LinkedIn: linkedin.com/in/ankit-kumar-64469b37b
 
-🐦 Twitter: twitter.com/your-link
+🐦 Twitter: twitter.com/yourusername
 
 ✨ “Technology is not just about solving problems; it’s about creating experiences that inspire.”
