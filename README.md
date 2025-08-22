@@ -43,8 +43,14 @@ Core CS:
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fearDluffy&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" /> </p>
 🐍 Contribution Graph
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fearDluffy/fearDluffy/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fearDluffy/fearDluffy/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/fearDluffy/fearDluffy/output/github-contribution-grid-snake.svg" /> </picture> </p>
-🎯 Career Goals
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fearDluffy/fearDluffy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fearDluffy/fearDluffy/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/fearDluffy/fearDluffy/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 
 🔹 Land a developer / AI/ML engineer role where I can apply problem-solving & analytics skills.
 🔹 Build impactful projects that help people in real life.
