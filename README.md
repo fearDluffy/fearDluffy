@@ -65,6 +65,6 @@ Core CS:
 
 💼 LinkedIn: linkedin.com/in/ankit-kumar-64469b37b
 
-🐦 Twitter: twitter.com/yourusername
+🐦 Twitter: twitter.com/@krishnasha61981
 
 ✨ “Technology is not just about solving problems; it’s about creating experiences that inspire.”
